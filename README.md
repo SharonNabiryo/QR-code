@@ -20,6 +20,7 @@ This is my first Frontmentor challenge. I'm glad I was able to complete it. I'm 
 ### Screenshot
 
 ![](../images/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/103398019/231010722-1d31c49c-6b5e-49a5-80a7-5b5408bc0f7b.png)
 
 This is a screenshot of my solution.
 
